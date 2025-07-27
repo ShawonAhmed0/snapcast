@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Shawon-Ahmed-s-workspace-a2rkh6.us-east-1.xata.sh/db/snapcast:main",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
